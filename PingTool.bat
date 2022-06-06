@@ -22,11 +22,11 @@ echo.
 pause`
 
 :start
-title Ping-Website
+title Ping Tool
 @echo off
 color a
 cls
-Echo You can ping any Website you want! (google.com, youtube.com usw)
+Echo Follow Me For more @zexyoutube
 echo.
 echo.
 set /p input=Website:
