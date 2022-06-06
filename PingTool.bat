@@ -24,7 +24,7 @@ pause`
 :start
 title Ping Tool
 @echo off
-color a
+color 4
 cls
 Echo Follow Me For more @zexyoutube
 echo.
