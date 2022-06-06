@@ -2,7 +2,7 @@
 goto :start
 :start
 title Ping Tool
-color a
+color d
 cls
 Echo Made By Zex
 echo.
