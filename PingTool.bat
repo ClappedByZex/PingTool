@@ -1,9 +1,6 @@
 @echo off 
 color A
-title Ping Tester
-
-
-                                 
+title Ping Tester                             
 set /p IP= Enter IP/Domain:
 :top
 PING  -n 1 %IP% | FIND "TTL="
